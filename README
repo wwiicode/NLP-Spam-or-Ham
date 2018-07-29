@@ -1,0 +1,6 @@
+This is the project of create a NLP model to recgonize spam or ham
+
+It used Pandas to clean up data.
+It used CounterVectorize and TifVecttorize to vectorize data.
+
+It used random forest to classify data.
